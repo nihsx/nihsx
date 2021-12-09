@@ -14,6 +14,10 @@
     <img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg" />
   </a>
 
+  <a href="">
+    <img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+  </a>
+
 <br>
 
 ### Tools:
