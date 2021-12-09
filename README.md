@@ -7,7 +7,7 @@
   </a>
 
   <a href="neovim.io">
-    <img align="left"alt="Neovim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Neovim-logo.svg/1920px-Neovim-logo.svg.png" />
+    <img align="left"alt="Neovim" width="26px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
   </a>
 
 - Version Control System (VCS)
