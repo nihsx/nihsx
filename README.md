@@ -36,6 +36,10 @@
 
 - Version Control System (VCS)
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img align="left" alt="Git" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/>
+  <a href="https://github.com/" target="_blank">
+    <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
   </a>
+
+  <a href="https://git-scm.com">
+    <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+  </a> 
