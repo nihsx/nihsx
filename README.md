@@ -34,6 +34,16 @@
 
 <br>
 
+- Framework
+
+  <a href="https://getbootstrap.com">
+    <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+  </a>
+
+  <a href="https://laravel.com">
+    <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
+  </a>
+
 - Version Control System (VCS)
 
   <a href="https://github.com/" target="_blank">
