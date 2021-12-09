@@ -1,3 +1,13 @@
+### Operating System:
+
+- Linux
+
+  <a href="https://archlinux.org">
+    <img align="left" alt="Arch Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />
+  </a>
+
+<br>
+
 ### Language:
 
 - Programming Language
@@ -43,6 +53,8 @@
   <a href="https://laravel.com">
     <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
   </a>
+
+<br>
 
 - Version Control System (VCS)
 
