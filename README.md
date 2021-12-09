@@ -13,7 +13,11 @@
 - Programming Language
 
   <a href="https://html.spec.whatwg.org/multipage/">
-    <img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+    <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+  </a>
+
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
   </a>
 
   <a href="https://www.gnu.org/software/bash">
@@ -24,11 +28,11 @@
     <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
   </a>
 
+  <br>
+
   <a href="https://www.php.net">
     <img align="left" alt="PHP" width="46px" src="https://www.php.net/images/logos/new-php-logo.svg" />
   </a>
-
-  <br>
 
   <a href="https://isocpp.org">
     <img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
