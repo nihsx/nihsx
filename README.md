@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img align="left" alt="CSS" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+    <img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
   </a>
 
   <a href="https://www.gnu.org/software/bash">
