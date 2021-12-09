@@ -63,5 +63,5 @@
   </a>
 
   <a href="https://git-scm.com">
-    <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+    <img align="left" alt="Git" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
   </a> 
