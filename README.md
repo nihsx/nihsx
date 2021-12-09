@@ -13,7 +13,7 @@
 - Programming Language
 
   <a href="https://www.gnu.org/software/bash">
-    <img align="left" alt="BASH" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
+    <img align="left" alt="BASH" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
   </a>
 
   <a href="https://www.javascript.com">
@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://www.php.net">
-    <img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg" />
+    <img align="left" alt="PHP" width="46px" src="https://www.php.net/images/logos/new-php-logo.svg" />
   </a>
 
   <a href="https://isocpp.org">
