@@ -1,4 +1,4 @@
-### Operating System:
+### Operating System: ![someonewhoknowsnothing GitHub stats](https://github-readme-stats.vercel.app/api?username=someonewhoknowsnothing&show_icons=true&theme=radical)
 
 - Linux
 
