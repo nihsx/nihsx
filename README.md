@@ -1,5 +1,13 @@
 ### Tools:
 
+- Programming Language
+
+  <a href="https://www.javascript.com">
+    <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  </a>
+
+<br>
+
 - Text Editor (IDE)
   
   <a href="https://code.visualstudio.com">
@@ -9,6 +17,8 @@
   <a href="neovim.io">
     <img align="left"alt="Neovim" width="26px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
   </a>
+
+<br>
 
 - Version Control System (VCS)
 
