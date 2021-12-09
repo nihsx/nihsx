@@ -1,3 +1,7 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=someonewhoknowsnothing&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+### Tools:
 
-![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=someonewhoknowsnothing&layout=compact&theme=dracula)
+  - Version Control System (VCS)
+
+  <a href="https://git-scm.com/" target="_blank">
+    _<img align="left" alt="git" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/> 
+  </a>
