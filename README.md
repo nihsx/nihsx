@@ -2,6 +2,10 @@
 
 - Programming Language
 
+  <a href="https://www.gnu.org/software/bash">
+    <img align="left" alt="BASH" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
+  </a>
+
   <a href="https://www.javascript.com">
     <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   </a>
