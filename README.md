@@ -1,7 +1,7 @@
 ### :octocat: Hi there!
 
 <a href="https://github.com/someonewhoknowsnothing">
-  <img src="https://github-readme-stats.vercel.app/api?username=someonewhoknowsnothing&show_icons=true&theme=radical" alt="minimal" align="right" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=someonewhoknowsnothing&show_icons=true&theme=radical" alt="GitHub Stats" align="right" width="400px"/>
 </a>
 
 <br>
@@ -24,7 +24,7 @@
 ### Language:
 
 <a href="https://github.com/someonewhoknowsnothing">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonewhoknowsnothing&layout=compact&show_icons=true&theme=radical" alt="minimal" align="right" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonewhoknowsnothing&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages" align="right" width="400px"/>
 </a>
 
 - Programming Language
