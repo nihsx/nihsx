@@ -6,6 +6,10 @@
     <img align="left" alt="Arch Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />
   </a>
 
+  <a href="https://www.android.com">
+    <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" />
+  </a>
+
 <br>
 
 ### Language:
