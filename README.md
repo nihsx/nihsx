@@ -34,10 +34,18 @@
 
 <br>
 
-- Markup Language
+- Markup
   
   <a href="https://html.spec.whatwg.org/multipage/">
     <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/someonewhoknowsnothing/icon/main/language/programming/html.svg" />
+  </a>
+
+<br>
+
+- Markdown
+
+  <a href="https://www.markdownguide.org/">
+    <img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
   </a>
 
 <br>
