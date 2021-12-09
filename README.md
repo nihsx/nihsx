@@ -1,4 +1,8 @@
-### Operating System: ![someonewhoknowsnothing GitHub stats](https://github-readme-stats.vercel.app/api?username=someonewhoknowsnothing&show_icons=true&theme=radical)
+### Operating System: 
+
+<a href="https://github.com/someonewhoknowsnothing">
+  <img src="https://github-readme-stats.vercel.app/api?username=someonewhoknowsnothing&show_icons=true&theme=radical" alt="minimal" align="right" width="400px"/>
+</a>
 
 - Linux
 
