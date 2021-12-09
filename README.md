@@ -90,5 +90,5 @@
   </a>
 
   <a href="https://wiki.termux.com">
-    <img align="left" alt="Terminal Emulator for Android" width="26px" src="https://raw.githubusercontent.com/someonewhoknowsnothing/icon/main/tools/terminal-emulator/termux.png" />
+    <img align="left" alt="Terminal Emulator for Android" width="36px" src="https://raw.githubusercontent.com/someonewhoknowsnothing/icon/main/tools/terminal-emulator/termux.png" />
   </a>
